@@ -1,0 +1,97 @@
+12
+Alice
+morning afternoon evening
+evening morning afternoon
+afternoon evening morning
+morning afternoon evening
+evening morning afternoon
+afternoon evening morning
+morning afternoon evening
+Bob
+afternoon evening morning
+morning afternoon evening
+evening morning afternoon
+afternoon evening morning
+morning afternoon evening
+evening morning afternoon
+afternoon evening morning
+Charlie
+evening morning afternoon
+afternoon evening morning
+morning afternoon evening
+evening morning afternoon
+afternoon evening morning
+morning afternoon evening
+evening morning afternoon
+David
+morning afternoon evening
+evening morning afternoon
+afternoon evening morning
+morning afternoon evening
+evening morning afternoon
+afternoon evening morning
+morning afternoon evening
+Eve
+afternoon evening morning
+morning afternoon evening
+evening morning afternoon
+afternoon evening morning
+morning afternoon evening
+evening morning afternoon
+afternoon evening morning
+Frank
+evening morning afternoon
+afternoon evening morning
+morning afternoon evening
+evening morning afternoon
+afternoon evening morning
+morning afternoon evening
+evening morning afternoon
+Grace
+morning afternoon evening
+evening morning afternoon
+afternoon evening morning
+morning afternoon evening
+evening morning afternoon
+afternoon evening morning
+morning afternoon evening
+Hank
+afternoon evening morning
+morning afternoon evening
+evening morning afternoon
+afternoon evening morning
+morning afternoon evening
+evening morning afternoon
+afternoon evening morning
+Ivy
+evening morning afternoon
+afternoon evening morning
+morning afternoon evening
+evening morning afternoon
+afternoon evening morning
+morning afternoon evening
+evening morning afternoon
+Isha
+morning afternoon evening
+evening morning afternoon
+afternoon evening morning
+morning afternoon evening
+evening morning afternoon
+afternoon evening morning
+morning afternoon evening
+Boby
+afternoon evening morning
+morning afternoon evening
+evening morning afternoon
+afternoon evening morning
+morning afternoon evening
+evening morning afternoon
+afternoon evening morning
+Avi
+morning afternoon evening
+evening morning afternoon
+afternoon evening morning
+morning afternoon evening
+evening morning afternoon
+afternoon evening morning
+morning afternoon evening
